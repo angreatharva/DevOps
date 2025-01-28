@@ -1,1 +1,3 @@
-DevOps Practoce
+DevOps Practice
+
+Hello Atharva
